@@ -30,9 +30,9 @@ properties:
   samples:
     default: 5
   basic_timeout:
-    default: "60s"
+    default: 60
   long_timeout:
-    default: "180s"
+    default: 180
   ginkgo_timeout:
     default: "3h"
   users:
