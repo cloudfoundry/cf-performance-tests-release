@@ -6,7 +6,7 @@ templates:
   bin/run.erb: bin/run
 
 packages:
-- golang-1.26-linux
+- golang-1.27-linux
 - cf-cli-8-linux
 - cf_performance_tests
 
